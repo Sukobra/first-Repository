@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+}
+h1 {
+    text-align: center;
+    border: 2px solid burlywood;
+    background-color: burlywood;
+    padding: 20px;
+    margin: -10px;
+}
+.Calculadora {
+    text-align: center;
+    padding-top: 30px;
+}
+input, button {
+    border-radius: 20px;
+    height: 20px;
+    
+}
+main.js {
+    border: 2px solid #080808;
+}
